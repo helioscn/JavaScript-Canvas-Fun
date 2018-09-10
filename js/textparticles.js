@@ -49,8 +49,6 @@ window.onload = function() {
 				} else {
 					this.x = this.xb;
 					this.y = this.yb;
-				}
-				if ((this.x - this.rvx) < this.xb && this.rvx > 0 || (this.x + this.rvx) > this.xb && this.rvx < 0) {
 					!b;
 					this.rvx = 0;
 					this.rvy = 0;
